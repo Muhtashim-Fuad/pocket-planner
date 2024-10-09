@@ -1,0 +1,39 @@
+name: pocket_planner
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  fl_chart: ^0.68.0
+  persistent_bottom_nav_bar: ^5.0.2
+  provider: ^6.1.2
+  intl: ^0.19.0
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  icons_launcher: ^2.1.7
+  
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+      - family: Montserrat
+        fonts:
+          - asset: assets/Montserrat.ttf
+
+icons_launcher:
+  image_path: "assets/icon.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
