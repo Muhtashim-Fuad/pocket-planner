@@ -13,3 +13,10 @@ Pocket Planner is a simple and intuitive Flutter app designed to help you manage
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your system.
 - A code editor like [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio).
+
+## Screenshots
+<p>
+  <image src="https://github.com/user-attachments/assets/5296996c-6c8c-43b4-9691-209f9539c380" width="33%"/>
+  <image src="https://github.com/user-attachments/assets/999f9e61-2ed6-4c0a-b10d-6f2d476dbc56" width="33%"/>
+  <image src="https://github.com/user-attachments/assets/6dee542a-d983-4a58-bd37-e1af2e033166" width="33%"/>
+</p>
